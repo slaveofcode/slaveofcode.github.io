@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Codebatik by Aditya</title>
+    <link>http://codebatik.com/tags/website/</link>
+    <description>Recent content in Website on Codebatik by Aditya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://codebatik.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Possibilities of Code</title>
+      <link>http://codebatik.com/2017/07/the-possibilities-of-code/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/2017/07/the-possibilities-of-code/</guid>
+      <description>&lt;p&gt;The possibilities of code, dalam kode kita menemukan dunia, membaca berbagai informasi dan juga bertukar ide dan inovasi.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,40 @@
     <description>Recent content on Codebatik by Aditya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://codebatik.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>http://codebatik.com/about/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/about/</guid>
+      <description>A code explorer who loves to write code and seeking for open source artifacts (read: project) through the open internet world. I like to spent my free time to create some applications in order to heal my curiosity on technology, also interested to the content of the leadership, wonder someday i could built a product that help people and found my own startup company.
+Pretty much loves Javascript and Python, those two language really made my life better again.</description>
+    </item>
+    
+    <item>
+      <title>Hackerwatch, a simple hackernews watcher</title>
+      <link>http://codebatik.com/projects/hackerwatch-a-simple-hackernews-watcher/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/hackerwatch-a-simple-hackernews-watcher/</guid>
+      <description>&lt;p&gt;Aplikasi web simpel untuk memantau listing terupdate dari &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;news.ycombinator.com&lt;/a&gt; atau yang biasa disebut &lt;strong&gt;hackernews&lt;/strong&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Possibilities of Code</title>
+      <link>http://codebatik.com/2017/07/the-possibilities-of-code/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/2017/07/the-possibilities-of-code/</guid>
+      <description>&lt;p&gt;The possibilities of code, dalam kode kita menemukan dunia, membaca berbagai informasi dan juga bertukar ide dan inovasi.
+&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

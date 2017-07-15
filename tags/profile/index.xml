@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profile on Codebatik by Aditya</title>
+    <link>http://codebatik.com/tags/profile/</link>
+    <description>Recent content in Profile on Codebatik by Aditya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://codebatik.com/tags/profile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://codebatik.com/about/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/about/</guid>
+      <description>A code explorer who loves to write code and seeking for open source artifacts (read: project) through the open internet world. I like to spent my free time to create some applications in order to heal my curiosity on technology, also interested to the content of the leadership, wonder someday i could built a product that help people and found my own startup company.
+Pretty much loves Javascript and Python, those two language really made my life better again.</description>
+    </item>
+    
+  </channel>
+</rss>

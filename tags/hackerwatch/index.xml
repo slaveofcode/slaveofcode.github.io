@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackerwatch on Codebatik by Aditya</title>
+    <link>http://codebatik.com/tags/hackerwatch/</link>
+    <description>Recent content in Hackerwatch on Codebatik by Aditya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://codebatik.com/tags/hackerwatch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hackerwatch, a simple hackernews watcher</title>
+      <link>http://codebatik.com/projects/hackerwatch-a-simple-hackernews-watcher/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/hackerwatch-a-simple-hackernews-watcher/</guid>
+      <description>&lt;p&gt;Aplikasi web simpel untuk memantau listing terupdate dari &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;news.ycombinator.com&lt;/a&gt; atau yang biasa disebut &lt;strong&gt;hackernews&lt;/strong&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

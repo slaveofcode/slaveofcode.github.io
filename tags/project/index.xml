@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Codebatik by Aditya</title>
+    <link>http://codebatik.com/tags/project/</link>
+    <description>Recent content in Project on Codebatik by Aditya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://codebatik.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://codebatik.com/projects/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/</guid>
+      <description>Listing beberapa project yang pernah dan sedang berjalan saat ini. Beberapa project di bawah mungkin outdated atau sudah tidak lagi dilanjutkan pengembangannya, just let me know if you want to be a contributor of those project(s).</description>
+    </item>
+    
+  </channel>
+</rss>
