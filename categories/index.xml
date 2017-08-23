@@ -11,11 +11,29 @@
     
     
     <item>
+      <title>Development</title>
+      <link>http://codebatik.com/categories/development/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Real Life</title>
       <link>http://codebatik.com/categories/real-life/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://codebatik.com/categories/real-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>http://codebatik.com/categories/startup/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/categories/startup/</guid>
       <description></description>
     </item>
     
