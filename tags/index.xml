@@ -32,7 +32,7 @@
     <item>
       <title>Analyst</title>
       <link>http://codebatik.com/tags/analyst/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Aug 2017 23:25:36 +0700</pubDate>
       
       <guid>http://codebatik.com/tags/analyst/</guid>
       <description></description>
@@ -77,9 +77,18 @@
     <item>
       <title>Development</title>
       <link>http://codebatik.com/tags/development/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Aug 2017 23:25:36 +0700</pubDate>
       
       <guid>http://codebatik.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://codebatik.com/tags/golang/</link>
+      <pubDate>Sat, 26 Aug 2017 23:25:36 +0700</pubDate>
+      
+      <guid>http://codebatik.com/tags/golang/</guid>
       <description></description>
     </item>
     
@@ -129,6 +138,15 @@
     </item>
     
     <item>
+      <title>Node</title>
+      <link>http://codebatik.com/tags/node/</link>
+      <pubDate>Sat, 26 Aug 2017 23:25:36 +0700</pubDate>
+      
+      <guid>http://codebatik.com/tags/node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Profile</title>
       <link>http://codebatik.com/tags/profile/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
@@ -149,7 +167,7 @@
     <item>
       <title>Programming</title>
       <link>http://codebatik.com/tags/programming/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Aug 2017 23:25:36 +0700</pubDate>
       
       <guid>http://codebatik.com/tags/programming/</guid>
       <description></description>
@@ -176,9 +194,18 @@
     <item>
       <title>Python</title>
       <link>http://codebatik.com/tags/python/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Aug 2017 23:25:36 +0700</pubDate>
       
       <guid>http://codebatik.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>http://codebatik.com/tags/rust/</link>
+      <pubDate>Sat, 26 Aug 2017 23:25:36 +0700</pubDate>
+      
+      <guid>http://codebatik.com/tags/rust/</guid>
       <description></description>
     </item>
     

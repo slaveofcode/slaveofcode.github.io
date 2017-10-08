@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://codebatik.com/2017/08/mungkin-rust-akan-menang/</loc>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/2017/08/berikan-yang-klien-butuhkan-bukan-yang-diinginkan/</loc>
     <lastmod>2017-08-23T00:00:00+00:00</lastmod>
   </url>
@@ -41,7 +46,7 @@
   
   <url>
     <loc>http://codebatik.com/tags/analyst/</loc>
-    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,7 +80,7 @@
   
   <url>
     <loc>http://codebatik.com/</loc>
-    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
   </url>
   
   <url>
@@ -86,13 +91,19 @@
   
   <url>
     <loc>http://codebatik.com/tags/development/</loc>
-    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codebatik.com/categories/development/</loc>
-    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/golang/</loc>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -127,8 +138,14 @@
   </url>
   
   <url>
+    <loc>http://codebatik.com/tags/node/</loc>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/post/</loc>
-    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -146,7 +163,7 @@
   
   <url>
     <loc>http://codebatik.com/tags/programming/</loc>
-    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -164,7 +181,7 @@
   
   <url>
     <loc>http://codebatik.com/tags/python/</loc>
-    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -175,8 +192,14 @@
   </url>
   
   <url>
+    <loc>http://codebatik.com/tags/rust/</loc>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/categories/startup/</loc>
-    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-26T23:25:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   

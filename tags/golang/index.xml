@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming on Codebatik by Aditya</title>
-    <link>http://codebatik.com/tags/programming/</link>
-    <description>Recent content in Programming on Codebatik by Aditya</description>
+    <title>Golang on Codebatik by Aditya</title>
+    <link>http://codebatik.com/tags/golang/</link>
+    <description>Recent content in Golang on Codebatik by Aditya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Aug 2017 23:25:36 +0700</lastBuildDate>
     
-	<atom:link href="http://codebatik.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://codebatik.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>http://codebatik.com/2017/08/mungkin-rust-akan-menang/</guid>
       <description>&lt;p&gt;Jika kalian jengah mendengar banyak bahasa pemrograman baru yang muncul baru-baru ini, mungkin kali ini saya akan sedikit bercerita. Adalah tentang bahasa pemrograman yang pernah atau sedang saya amati, salah satunya adalah Rust by Mozilla yang mungkin akan banyak berperan di beberapa sektor terutama sistem programming.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Berikan Yang Klien Butuhkan Bukan Yang Diinginkan</title>
-      <link>http://codebatik.com/2017/08/berikan-yang-klien-butuhkan-bukan-yang-diinginkan/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://codebatik.com/2017/08/berikan-yang-klien-butuhkan-bukan-yang-diinginkan/</guid>
-      <description>&lt;p&gt;Dalam dunia development seringkali kita dijejali dengan berbagai ucapan klien atau kolega yang menginstruksikan kita untuk membuat sesuatu yang bagus, keren dan menggunakan teknologi paling mutakhir seperti dalam pandangan mereka.
 &lt;/p&gt;</description>
     </item>
     
