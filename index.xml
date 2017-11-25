@@ -22,6 +22,36 @@ Node.js is cool but instead using a node program to handle some various cpu-inte
     </item>
     
     <item>
+      <title>Pendekin, a shortener url based on Node.js</title>
+      <link>http://codebatik.com/projects/pendekin-url-shortener-based-on-node-js/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/pendekin-url-shortener-based-on-node-js/</guid>
+      <description>&lt;p&gt;Shortener project based on Node.js
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pycrawler, a simple python crawler for extracting article content</title>
+      <link>http://codebatik.com/projects/pycrawler-a-simple-python-crawler-for-extracting-content/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/pycrawler-a-simple-python-crawler-for-extracting-content/</guid>
+      <description>&lt;p&gt;Simple library to extract web article content
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rajaongkir Python Library</title>
+      <link>http://codebatik.com/projects/rajaongkir-python-library/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/rajaongkir-python-library/</guid>
+      <description>&lt;p&gt;Simple python library to fetching information on rajaongkir.com
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Mungkin Rust akan Menang</title>
       <link>http://codebatik.com/2017/10/mungkin-rust-akan-menang/</link>
       <pubDate>Wed, 18 Oct 2017 12:05:00 +0700</pubDate>
@@ -58,6 +88,26 @@ Pretty much loves Javascript and Python, those two language really made my life 
       
       <guid>http://codebatik.com/projects/hackerwatch-a-simple-hackernews-watcher/</guid>
       <description>&lt;p&gt;Aplikasi web simpel untuk memantau listing terupdate dari &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;news.ycombinator.com&lt;/a&gt; atau yang biasa disebut &lt;strong&gt;hackernews&lt;/strong&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Library to monitoring your PHP project exceptions</title>
+      <link>http://codebatik.com/projects/notify-exception-php/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/notify-exception-php/</guid>
+      <description>&lt;p&gt;Monitoring your PHP project error exceptions
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Restful-filter, Simple Node.js (express) library to handle your RESTful query-string</title>
+      <link>http://codebatik.com/projects/restful-filter-to-handle-your-restful-query-string/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/restful-filter-to-handle-your-restful-query-string/</guid>
+      <description>&lt;p&gt;Simple Node.js (express framework) library to handle restful query-string, it handles filter, orders and pagination based on provided query string
 &lt;/p&gt;</description>
     </item>
     

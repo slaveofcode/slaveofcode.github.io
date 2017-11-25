@@ -6,10 +6,20 @@
     <description>Recent content in Node on Codebatik by Aditya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2017 12:05:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://codebatik.com/tags/node/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pendekin, a shortener url based on Node.js</title>
+      <link>http://codebatik.com/projects/pendekin-url-shortener-based-on-node-js/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/pendekin-url-shortener-based-on-node-js/</guid>
+      <description>&lt;p&gt;Shortener project based on Node.js
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Mungkin Rust akan Menang</title>

@@ -75,11 +75,38 @@
     </item>
     
     <item>
+      <title>Crawler</title>
+      <link>http://codebatik.com/tags/crawler/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/crawler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development</title>
       <link>http://codebatik.com/tags/development/</link>
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://codebatik.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Exception</title>
+      <link>http://codebatik.com/tags/error-exception/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/error-exception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting</title>
+      <link>http://codebatik.com/tags/extracting/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/extracting/</guid>
       <description></description>
     </item>
     
@@ -129,6 +156,15 @@
     </item>
     
     <item>
+      <title>Library</title>
+      <link>http://codebatik.com/tags/library/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>http://codebatik.com/tags/machine-learning/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
@@ -140,9 +176,27 @@
     <item>
       <title>Node</title>
       <link>http://codebatik.com/tags/node/</link>
-      <pubDate>Wed, 18 Oct 2017 12:05:00 +0700</pubDate>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://codebatik.com/tags/node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node.Js</title>
+      <link>http://codebatik.com/tags/node.js/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>http://codebatik.com/tags/php/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/php/</guid>
       <description></description>
     </item>
     
@@ -185,7 +239,7 @@
     <item>
       <title>Projects</title>
       <link>http://codebatik.com/tags/projects/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://codebatik.com/tags/projects/</guid>
       <description></description>
@@ -194,9 +248,27 @@
     <item>
       <title>Python</title>
       <link>http://codebatik.com/tags/python/</link>
-      <pubDate>Wed, 18 Oct 2017 12:05:00 +0700</pubDate>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://codebatik.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajaongkir</title>
+      <link>http://codebatik.com/tags/rajaongkir/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/rajaongkir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restful</title>
+      <link>http://codebatik.com/tags/restful/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/restful/</guid>
       <description></description>
     </item>
     
@@ -215,6 +287,15 @@
       <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://codebatik.com/tags/rustlang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Url Shortener</title>
+      <link>http://codebatik.com/tags/url-shortener/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/tags/url-shortener/</guid>
       <description></description>
     </item>
     

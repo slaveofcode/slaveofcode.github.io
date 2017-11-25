@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>http://codebatik.com/projects/pendekin-url-shortener-based-on-node-js/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/projects/pycrawler-a-simple-python-crawler-for-extracting-content/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/projects/rajaongkir-python-library/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/2017/10/mungkin-rust-akan-menang/</loc>
     <lastmod>2017-10-18T12:05:00+07:00</lastmod>
   </url>
@@ -28,7 +43,17 @@
   </url>
   
   <url>
+    <loc>http://codebatik.com/projects/notify-exception-php/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/projects/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/projects/restful-filter-to-handle-your-restful-query-string/</loc>
     <lastmod>2017-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,6 +120,12 @@
   </url>
   
   <url>
+    <loc>http://codebatik.com/tags/crawler/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/categories/development/</loc>
     <lastmod>2017-10-18T12:05:00+07:00</lastmod>
     <priority>0</priority>
@@ -102,6 +133,18 @@
   
   <url>
     <loc>http://codebatik.com/tags/development/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/error-exception/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/extracting/</loc>
     <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -137,6 +180,12 @@
   </url>
   
   <url>
+    <loc>http://codebatik.com/tags/library/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/tags/machine-learning/</loc>
     <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -144,13 +193,25 @@
   
   <url>
     <loc>http://codebatik.com/tags/node/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/node.js/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codebatik.com/categories/opinion/</loc>
     <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/php/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,18 +247,30 @@
   
   <url>
     <loc>http://codebatik.com/tags/projects/</loc>
-    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codebatik.com/tags/python/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/rajaongkir/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://codebatik.com/categories/real-life/</loc>
+    <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/restful/</loc>
     <lastmod>2017-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -235,6 +308,12 @@
   <url>
     <loc>http://codebatik.com/categories/thought/</loc>
     <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/url-shortener/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

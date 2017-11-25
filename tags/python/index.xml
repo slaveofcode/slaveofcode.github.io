@@ -6,10 +6,30 @@
     <description>Recent content in Python on Codebatik by Aditya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2017 12:05:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://codebatik.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pycrawler, a simple python crawler for extracting article content</title>
+      <link>http://codebatik.com/projects/pycrawler-a-simple-python-crawler-for-extracting-content/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/pycrawler-a-simple-python-crawler-for-extracting-content/</guid>
+      <description>&lt;p&gt;Simple library to extract web article content
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rajaongkir Python Library</title>
+      <link>http://codebatik.com/projects/rajaongkir-python-library/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/projects/rajaongkir-python-library/</guid>
+      <description>&lt;p&gt;Simple python library to fetching information on rajaongkir.com
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Mungkin Rust akan Menang</title>
