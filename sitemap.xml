@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://codebatik.com/2017/11/my-opinion-about-rust-and-golang/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/2017/10/mungkin-rust-akan-menang/</loc>
     <lastmod>2017-10-18T12:05:00+07:00</lastmod>
   </url>
@@ -46,7 +51,7 @@
   
   <url>
     <loc>http://codebatik.com/tags/analyst/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,12 +85,18 @@
   
   <url>
     <loc>http://codebatik.com/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://codebatik.com/tags/coding/</loc>
     <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/development/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,14 +107,8 @@
   </url>
   
   <url>
-    <loc>http://codebatik.com/tags/development/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://codebatik.com/tags/golang/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -144,8 +149,14 @@
   </url>
   
   <url>
+    <loc>http://codebatik.com/categories/opinion/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/post/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,7 +174,7 @@
   
   <url>
     <loc>http://codebatik.com/tags/programming/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,7 +204,13 @@
   
   <url>
     <loc>http://codebatik.com/tags/rust/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/rustlang/</loc>
+    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

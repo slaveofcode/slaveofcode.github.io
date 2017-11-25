@@ -6,10 +6,20 @@
     <description>Recent content in Analyst on Codebatik by Aditya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2017 12:05:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://codebatik.com/tags/analyst/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Opinion about Rust and Golang</title>
+      <link>http://codebatik.com/2017/11/my-opinion-about-rust-and-golang/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/2017/11/my-opinion-about-rust-and-golang/</guid>
+      <description>You know i am really interested with two compiled language whichy is Rust-lang and Golang from this mid-year of 2017. I think i am are ready to move into more capability which available on these languages with pretty efficient and fast managing it&amp;rsquo;s memory and cpu process.
+Node.js is cool but instead using a node program to handle some various cpu-intensive or very large memory consumptions around my application. I tend to use a right tool for a right job.</description>
+    </item>
     
     <item>
       <title>Mungkin Rust akan Menang</title>
