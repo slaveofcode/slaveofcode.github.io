@@ -6,10 +6,19 @@
     <description>Recent content in Programming on Codebatik by Aditya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://codebatik.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Story of Making Url-Shortener as My Side Project</title>
+      <link>http://codebatik.com/2017/12/story-of-making-url-shortener-as-my-side-project/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/2017/12/story-of-making-url-shortener-as-my-side-project/</guid>
+      <description>A few months ago I was thinking about making a simple service that could help me escalate my skill on nodejs. Basicly the service is pretty simple, it&amp;rsquo;s called url-shortener. You just generate a short code and linking with the url, it is simple. That time actually I just thinking to make this simple app with expressing my contribution on open-source project, I never build an open-source project based on NodeJs before.</description>
+    </item>
     
     <item>
       <title>My Opinion about Rust and Golang</title>

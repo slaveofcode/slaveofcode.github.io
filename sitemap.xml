@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://codebatik.com/2017/12/story-of-making-url-shortener-as-my-side-project/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://codebatik.com/2017/11/my-opinion-about-rust-and-golang/</loc>
     <lastmod>2017-11-25T00:00:00+00:00</lastmod>
   </url>
@@ -110,7 +115,7 @@
   
   <url>
     <loc>http://codebatik.com/</loc>
-    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -126,14 +131,14 @@
   </url>
   
   <url>
-    <loc>http://codebatik.com/tags/development/</loc>
-    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <loc>http://codebatik.com/categories/development/</loc>
+    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://codebatik.com/categories/development/</loc>
-    <lastmod>2017-10-18T12:05:00+07:00</lastmod>
+    <loc>http://codebatik.com/tags/development/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,7 +198,7 @@
   
   <url>
     <loc>http://codebatik.com/tags/node/</loc>
-    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -217,7 +222,7 @@
   
   <url>
     <loc>http://codebatik.com/post/</loc>
-    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -235,7 +240,13 @@
   
   <url>
     <loc>http://codebatik.com/tags/programming/</loc>
-    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/categories/project/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -313,7 +324,7 @@
   
   <url>
     <loc>http://codebatik.com/tags/url-shortener/</loc>
-    <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
