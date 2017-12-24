@@ -6,10 +6,20 @@
     <description>Recent content in Programming on Codebatik by Aditya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://codebatik.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why I Love Code</title>
+      <link>http://codebatik.com/2017/12/why-i-love-code/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://codebatik.com/2017/12/why-i-love-code/</guid>
+      <description>I always remember when started to write code, it was on highschool writing my very first pascal code and competing with another students to show them that my program was better than theirs. That&amp;rsquo;s the time I found my self useful and very very exited to finish and gaining the response about my program.
+Code was my friend since then. Nothing could make me happier than sitting in front of the monitor through the day on my school lab.</description>
+    </item>
     
     <item>
       <title>Story of Making Url-Shortener as My Side Project</title>
